@@ -1,0 +1,14 @@
+{
+  "name": "socker-server-fake-emits",
+  "version": "1.0.0",
+  "description": "Server for fake emits",
+  "main": "index.js",
+  "repository": "https://github.com/RaphaAmericano/socker-server-fake-emits.git",
+  "author": "Raphael Americano <raphael@raphaelamericano.com.br> (http://www.raphaelamericano.com.br/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4",
+    "socket.io": "^4.1.3"
+  },
+  "devDependencies": {}
+}
